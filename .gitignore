@@ -1,0 +1,21 @@
+# build output
+obj/
+dist/
+
+# visual studio
+.vs/
+*.user
+*.suo
+
+# editors
+.vscode/
+.idea/
+
+# local junk
+*.log
+*.pdb
+*.ilk
+Thumbs.db
+desktop.ini
+
+dist_dev/
